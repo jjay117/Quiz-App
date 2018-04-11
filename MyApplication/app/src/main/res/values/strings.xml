@@ -1,0 +1,79 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Quiz App</string>
+
+    
+    <!-- Question #1 [CHAR LIMIT=40] -->
+    <string name="questionOne">Check all actual Android Views:</string>
+
+    <!-- Question #2 [CHAR LIMIT=40] -->
+    <string name="questionTwo">Evaluate if x = 5: If(x > 4);</string>
+
+    <!-- Question #3 [CHAR LIMIT=50] -->
+    <string name="questionThree">What Android view enables scrolling?</string>
+
+    <!-- Question #4 [CHAR LIMIT=50] -->
+    <string name="questionFour">To add space between Views we can use:</string>
+
+    <!-- Question #5 [CHAR LIMIT=60] -->
+    <string name="questionFive">The programming language taught in this course is?</string>
+    
+    
+    <!-- Question 1 checkbox button 1 [CHAR LIMIT=8] -->
+    <string name="checkboxOneOne">TextView</string>
+
+    <!-- Question 1 checkbox button 2 [CHAR LIMIT=10] -->
+    <string name="checkboxOneTwo">ButtonView</string>
+
+    <!-- Question 1 checkbox button 3 [CHAR LIMIT=9] -->
+    <string name="checkboxOneThree">ImageView</string>
+
+    <!-- Question 1 checkbox button 4 [CHAR LIMIT=11] -->
+    <string name="checkboxOneFour">CheckBox</string>
+
+    <!-- Question 2 radio button 1 [CHAR LIMIT=4] -->
+    <string name="radioTwoOne">TRUE</string>
+
+    <!-- Question 2 radio button 2 [CHAR LIMIT=5] -->
+    <string name="radioTwoTwo">FALSE</string>
+
+    <!-- Question 3 hint text display in the empty field for the user's input [CHAR LIMIT=20] -->
+    <string name="answerFourOne">Answer Here</string>
+    
+    <!-- Question 4 checkbox button 1 [CHAR LIMIT=4] -->
+    <string name="checkboxFourOne">Padding</string>
+
+    <!-- Question 4 checkbox button 2 [CHAR LIMIT=6] -->
+    <string name="checkboxFourTwo">Spacing</string>
+
+    <!-- Question 4 checkbox button 3 [CHAR LIMIT=3] -->
+    <string name="checkboxFourThree">Margin</string>
+
+    <!-- Question 4 checkbox button 4 [CHAR LIMIT=8] -->
+    <string name="checkboxFourFour">nbsp</string>
+
+    <!-- Question 5 radio button 1 [CHAR LIMIT=4] -->
+    <string name="radioFiveOne">Java</string>
+
+    <!-- Question 5 radio button 2 [CHAR LIMIT=6] -->
+    <string name="radioFiveTwo">Python</string>
+
+    <!-- Question 5 radio button 3 [CHAR LIMIT=3] -->
+    <string name="radioFiveThree">C++</string>
+
+    <!-- Question 5 radio button 4 [CHAR LIMIT=8] -->
+    <string name="radioFiveFour">Fortran</string>
+
+    
+    <!-- Submit text button text [CHAR LIMIT=10] -->
+    <string name="submit">Submit</string>
+
+    <!-- Submit text button text [CHAR LIMIT=10] -->
+    <string name="clear">Clear</string>
+
+    <!--
+      Name for the order summary. It will be shown in the format of "Name: Amy" where Amy is the
+      user's name. [CHAR LIMIT=NONE]
+    -->
+    <string name="order_summary_name">Name: <xliff:g example="Amy" id="name">%s</xliff:g></string>
+</resources>
